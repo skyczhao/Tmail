@@ -1,6 +1,6 @@
 Tmail
 =====
-An open source email server
+an open source email server
 
 Version
 -----

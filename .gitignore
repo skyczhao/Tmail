@@ -12,7 +12,10 @@
 hs_err_pid*
 
 # ignore folders
+lib/
+bin/
 out/
+sql/
 doc/
 
 # ignore project files
